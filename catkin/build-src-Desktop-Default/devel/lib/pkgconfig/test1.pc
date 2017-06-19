@@ -1,0 +1,8 @@
+prefix=/home/zyvv/work/Rosprj/catkin/build-src-Desktop-Default/devel
+
+Name: test1
+Description: Description of test1
+Version: 0.1.0
+Cflags: 
+Libs: -L/home/zyvv/work/Rosprj/catkin/build-src-Desktop-Default/devel/lib 
+Requires: 

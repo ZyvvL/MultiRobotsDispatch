@@ -1,0 +1,2 @@
+test1:test2
+-G CodeBlocks - Unix Makefiles -DCMAKE_BUILD_TYPE=Debug -DCATKIN_DEVEL_PREFIX=/home/zyvv/work/Rosprj/catkin/devel -DCMAKE_INSTALL_PREFIX=/home/zyvv/work/Rosprj/catkin/install

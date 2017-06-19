@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/zyvv/work/Rosprj/catkin/src/test1/mainwindow.cpp
+mainwindow.h
+/home/zyvv/work/Rosprj/catkin/src/test1/mainwindow.h
+ui_mainwindow.h
+/home/zyvv/work/Rosprj/catkin/src/test1/ui_mainwindow.h
+
+/home/zyvv/work/Rosprj/catkin/src/test1/mainwindow.h
+QMainWindow
+-
+
